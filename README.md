@@ -6,8 +6,7 @@ Rather than executing blind bulk installations, the script prompts a user for ev
 
 ## 🚀 Quick Start
 
-A developer can copy and paste the exact command below into the macOS Terminal to execute the script directly. 
+Copy and paste the exact command below into your macOS Terminal:
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/theasmat/mac-setup/main/setup.sh](https://raw.githubusercontent.com/theasmat/mac-setup/main/setup.sh) | bash
-
+bash -c "$(curl -fsSL [https://raw.githubusercontent.com/theasmat/mac-setup/main/setup.sh](https://raw.githubusercontent.com/theasmat/mac-setup/main/setup.sh))"
