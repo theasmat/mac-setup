@@ -10,3 +10,4 @@ A developer can copy and paste the exact command below into the macOS Terminal t
 
 ```bash
 curl -fsSL [https://raw.githubusercontent.com/theasmat/mac-setup/main/setup.sh](https://raw.githubusercontent.com/theasmat/mac-setup/main/setup.sh) | bash
+
