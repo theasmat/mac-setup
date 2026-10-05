@@ -9,7 +9,7 @@ Instead of running blind bulk installs, the script asks about every optimization
 Copy and paste this command into the macOS Terminal. There are no placeholders to edit. Standard input stays attached to your terminal, so the interactive prompts work.
 
 ```bash
-bash -c "$(curl -fsSL [https://raw.githubusercontent.com/theasmat/mac-setup/master/setup.sh](https://raw.githubusercontent.com/theasmat/mac-setup/master/setup.sh))"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/theasmat/mac-setup/master/setup.sh)"
 ```
 
 ## 🔍 Prefer to Read It First?
